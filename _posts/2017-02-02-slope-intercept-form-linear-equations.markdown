@@ -21,4 +21,4 @@ Divide both sides by $$b$$:
 
 $$y=-\dfrac{a}{b} x + \dfrac{c}{b}$$
 
-This means the slope of any standard form equation is $$\boxed{-\frac{a}{b}}$$
+This means the slope of any standard form equation is $$-\frac{a}{b}$$
