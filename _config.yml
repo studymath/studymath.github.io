@@ -10,7 +10,7 @@ collections:
     output: true
 description: Math articles by AoPs students
 show_downloads: false
-google_analytics: 
+google_analytics: UA-77238872-6
 markdown: kramdown
 kramdown:
   math_engine: mathjax
