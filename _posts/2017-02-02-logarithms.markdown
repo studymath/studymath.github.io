@@ -9,4 +9,4 @@ pdf: https://studymath.github.io/assets/docs/Logarithms.pdf
 author: hotstuffFTW
 ---
 
-In this article, we go over logarithms, which are a shortcut to exponentiation. 
+In this article, we go over logarithms, which are a shortcut for exponentiation. 
