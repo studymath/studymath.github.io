@@ -17,13 +17,13 @@ layout: default
 </ul>
 
 {% for tag in site.categories %} 
-  <h2 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h2>
+  <a href="#{{ tag[0] }}"><h2 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h2></a>
   <ul class="post-list">
     {% assign pages_list = tag[1] %}  
     {% for post in pages_list %}
       {% if post.title != null %}
       {% if group == null or group == post.group %}
-      <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time>
+      <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}
       {% endif %}
       {% endif %}
     {% endfor %}
