@@ -1,4 +1,5 @@
 ---
+title: Study Math
 layout: default
 ---
 
