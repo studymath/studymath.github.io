@@ -1,4 +1,5 @@
 ---
+title: Study Math
 ---
 
 {% for tag in site.categories %} 
