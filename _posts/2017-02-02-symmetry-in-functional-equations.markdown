@@ -1,5 +1,5 @@
 ---
-title: Symmetry in functional equations
+title: Symmetry in Functional Equations
 date: 2017-02-02 20:52:00 Z
 categories:
 - algebra
