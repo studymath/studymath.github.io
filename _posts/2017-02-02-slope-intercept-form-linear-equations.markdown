@@ -6,6 +6,7 @@ categories:
 tags:
 - linear equations
 - algebra
+Author: gamjawon
 ---
 
 Standard Form Linear Equations are in the form of $$ax+by=c$$.
