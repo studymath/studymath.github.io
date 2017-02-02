@@ -149,7 +149,10 @@ footer {
   bottom: 0;
   left: 0;
 }
-
+@media print, screen and (min-width: 720px) {
+  left: 50%;
+  transform: translate(-50%, 0);
+}
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
@@ -165,13 +168,6 @@ footer {
 
   header {
     padding-right:320px;
-  }
-
-  section {
-    border:1px solid #e5e5e5;
-    border-width:1px 0;
-    padding:20px 0;
-    margin:0 0 20px;
   }
 
   header a small {
