@@ -13,11 +13,11 @@ Which means we want to express the standard form equation in slope-intercept for
 
 $$ax+by=c$$
 
-Subtract $ax$ from both sides
+Subtract $$ax$$ from both sides:
 
 $$by=-ax+c$$
 
-Divide both sides by $b$
+Divide both sides by $$b$$:
 
 $$y=-\dfrac{a}{b} x + \dfrac{c}{b}$$
 
