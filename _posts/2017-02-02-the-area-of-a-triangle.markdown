@@ -5,6 +5,7 @@ categories:
 - geometry
 tags:
 - geometry
+author: tkhalid
 ---
 
 <embed src="https://studymath.github.io/assets/docs/Area%20of%20a%20triangle.pdf" width="100%" height="375" type='application/pdf'>
