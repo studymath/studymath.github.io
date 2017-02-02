@@ -1,1 +1,2 @@
-# Simple math articles by AoPs students
+# Math articles by AoPs students
+
