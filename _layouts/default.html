@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html itemscope itemtype="http://schema.org/Article">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
@@ -12,6 +12,13 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <meta name="viewport" content="width=device-width">
     <meta name="google-site-verification" content="OMHK7hrjBOxEpAx1k0EynxcO_DuykI7LXQSWaC68Grs" />
+    
+    <meta itemprop="creator" content="Robert Washbourne">
+    <meta itemprop="name" content="{{ site.title }}">
+    <meta itemprop="headline" content="{{ page.title }}">
+    <meta itemprop="keywords" content="{{ page.tags | join: ',' }}">
+    <meta itemprop="license" content="https://opensource.org/licenses/Apache-2.0">
+    <meta itemprop="description" content="{{ post.excerpt }}">
 
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
