@@ -1,6 +1,10 @@
 ---
 title: Synthetic Solution Using Equilateral Triangles
 date: 2017-02-02 21:22:00 Z
+categories:
+- geometry
+tags:
+- geometry
 pdf: https://studymath.github.io/assets/docs/Synthetic%20solution%20by%20using%20equilateral%20triangles.pdf
 author: Matthew Fan
 ---
