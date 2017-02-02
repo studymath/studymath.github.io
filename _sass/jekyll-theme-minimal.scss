@@ -137,7 +137,8 @@ hr {
 }
 
 footer {
-  bottom:50px;
+  position: absolute;
+  bottom:0;
 }
 
 @media print, screen and (max-width: 960px) {
