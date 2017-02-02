@@ -2,20 +2,6 @@
 layout: default
 ---
 
-{% for category in site.categories %}
-  <li><a name="{{ category | first }}">{{ category | first }}</a>
-    <ul>
-    {% for posts in category %}
-      {% for post in posts %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endfor %}
-    {% endfor %}
-    </ul>
-  </li>
-{% endfor %}
-
-<hr />
-
 <ul class="tag-box inline">
 {% assign tags_list = site.categories %}  
   {% if tags_list.first[0] == null %}
@@ -37,11 +23,10 @@ layout: default
     {% for post in pages_list %}
       {% if post.title != null %}
       {% if group == null or group == post.group %}
-      <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></a></li>
+      <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time>
       {% endif %}
       {% endif %}
     {% endfor %}
     {% assign pages_list = nil %}
     {% assign group = nil %}
-  </ul>
 {% endfor %}
