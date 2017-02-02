@@ -36,8 +36,8 @@
 
       </section>
       <footer>
-        {% if page.author != blank %}
-        <p><small>Article by {{ page.author }}</small></p>{% endif %}
+        {% unless page.author == blank %}
+        <p><small>Article by {{ page.author }}</small></p>{% endunless %}
         <p><small>Project by <a href="http://devpy.me">Robert Washbourne</a>. Made avaliable under <a href="https://opensource.org/licenses/Apache-2.0">Apache 2.0 license</a>.</small></p>
       </footer>
     </div>
