@@ -6,8 +6,7 @@ categories:
 tags:
 - geometry
 author: tkhalid
+pdf: https://studymath.github.io/assets/docs/Area%20of%20a%20triangle.pdf
 ---
 
 In this article we will be discussing the various methods used for determining the area of a triangle.
-
-<iframe id="mathframe" src="https://studymath.github.io/assets/docs/Area%20of%20a%20triangle.pdf" width="100%" scrolling="no"></iframe>
