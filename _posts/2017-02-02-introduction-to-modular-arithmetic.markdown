@@ -2,7 +2,7 @@
 title: Introduction to Modular Arithmetic
 date: 2017-02-02 20:41:00 Z
 categories:
-- counting
+- counting and probability
 tags:
 - counting
 author: CaptainFlint
