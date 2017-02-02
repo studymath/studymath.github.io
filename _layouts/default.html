@@ -34,8 +34,8 @@
       {{ content }}
       </section>
       <footer>
-        {% unless page.url == "/" %}
-        <p><small>Article by {{ page.author }}</small></p>{% endunless %}
+        {% if page.pdf %}<a href="{{ page.pdf }}"><p><small>PDF source</small></p></a>{% endif %}
+        {% unless page.url == "/" %}<p><small>Article by {{ page.author }}</small></p>{% endunless %}
         <p><small>Website by <a href="http://devpy.me">Robert Washbourne.</a> Made avaliable under <a href="https://opensource.org/licenses/Apache-2.0">Apache 2.0.</a></small></p>
       </footer>
     </div>
