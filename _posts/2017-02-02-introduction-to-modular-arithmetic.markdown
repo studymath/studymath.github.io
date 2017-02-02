@@ -4,7 +4,7 @@ date: 2017-02-02 20:41:00 Z
 categories:
 - counting and probability
 tags:
-- counting
+- counting and probability
 author: CaptainFlint
 pdf: https://studymath.github.io/assets/docs/Intro%20to%20Modular%20Arithmetic.pdf
 ---
