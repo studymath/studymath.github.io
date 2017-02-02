@@ -1,5 +1,5 @@
 ---
-title: Logarithms
+title: Introduction to Logarithms
 date: 2017-02-02 20:45:00 Z
 categories:
 - counting and probability
