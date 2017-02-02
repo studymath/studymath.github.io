@@ -1,6 +1,4 @@
 ---
-title: Study Math: Articles by AoPs Students
-layout: default
 ---
 
 {% for tag in site.categories %} 
