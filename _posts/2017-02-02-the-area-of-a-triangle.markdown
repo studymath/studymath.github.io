@@ -8,4 +8,4 @@ tags:
 author: tkhalid
 ---
 
-<embed src="https://studymath.github.io/assets/docs/Area%20of%20a%20triangle.pdf" width="100%" height="375" type='application/pdf'>
+<object data="https://studymath.github.io/assets/docs/Area%20of%20a%20triangle.pdf" width="100%" height="100%" type='application/pdf'>
