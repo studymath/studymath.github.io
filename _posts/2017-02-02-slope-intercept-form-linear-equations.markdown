@@ -3,6 +3,9 @@ title: Slope-Intercept Form Linear Equations
 date: 2017-02-02 04:49:00 Z
 categories:
 - algebra
+tags:
+- linear equations
+- algebra
 ---
 
 Standard Form Linear Equations are in the form of $$ax+by=c$$.
