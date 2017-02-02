@@ -14,4 +14,3 @@ google_analytics:
 markdown: kramdown
 kramdown:
   math_engine: mathjax
-Author: 
