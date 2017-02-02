@@ -1,5 +1,5 @@
 ---
-title: Study Math
+title: Study Math: Articles by AoPs Students
 layout: default
 ---
 
