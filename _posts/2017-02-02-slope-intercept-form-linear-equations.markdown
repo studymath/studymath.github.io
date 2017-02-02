@@ -6,6 +6,7 @@ categories:
 ---
 
 Standard Form Linear Equations are in the form of $$ax+by=c$$.
+
 In slope-intercept form ($$y=mx+b$$), the $$m$$ would be the slope of the line.
 
 Which means we want to express the standard form equation in slope-intercept form.
