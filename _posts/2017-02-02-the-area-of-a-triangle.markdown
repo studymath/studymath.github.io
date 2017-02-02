@@ -10,7 +10,7 @@ author: tkhalid
 
 In this article we will be discussing the various methods used for determining the area of a triangle.
 
-<iframe src="https://studymath.github.io/assets/docs/Area%20of%20a%20triangle.pdf" width="100%" type='application/pdf'>
+<iframe id="mathframe" src="https://studymath.github.io/assets/docs/Area%20of%20a%20triangle.pdf" width="100%" type='application/pdf'>
 
 <script>
 $(document).ready(function() {
