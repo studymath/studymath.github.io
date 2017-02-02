@@ -150,8 +150,10 @@ footer {
   left: 0;
 }
 @media print, screen and (min-width: 720px) {
-  left: 50%;
-  transform: translate(-50%, 0);
+  div.wrapper {
+    left: 50%;
+    transform: translate(-50%, 0);
+  }
 }
 @media print, screen and (max-width: 960px) {
 
