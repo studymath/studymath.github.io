@@ -1,4 +1,4 @@
-# Math articles by AoPs students
+# [Math articles by AoPs students](https://studymath.github.io)
 
 ##Algebra
 * Symmetry in Functional Equations
