@@ -1,6 +1,10 @@
 ---
 title: Complex Numbers in Geometry
 date: 2017-02-03 03:01:00 Z
+categories:
+- geometry
+tags:
+- geometry
 author: Sebastian Jeon
 pdf: https://studymath.github.io/assets/docs/real_complex_bash.pdf
 ---
