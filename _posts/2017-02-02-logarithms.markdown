@@ -2,9 +2,9 @@
 title: Introduction to Logarithms
 date: 2017-02-02 20:45:00 Z
 categories:
-- counting and probability
+- algebra
 tags:
-- counting and probability
+- algebra
 pdf: https://studymath.github.io/assets/docs/Logarithms.pdf
 author: hotstuffFTW
 ---
