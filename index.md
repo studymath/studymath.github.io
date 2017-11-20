@@ -9,3 +9,8 @@ title: Study Math
   {% endif %}{% endif %}{% endfor %}
   </ul>{% assign pages_list = nil %}{% assign group = nil %}
 {% endfor %}
+
+<h2 id="otherlinks">Other links</h2>
+<ul class="post-list">
+  <li><a href="https://philosophicalmath.wordpress.com/">Philosophical Math</a></li>
+</ul>
