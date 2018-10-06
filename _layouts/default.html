@@ -73,7 +73,7 @@
     var url = '{{ page.pdf }}';
 
     //This is where you start
-    PDFJS.getDocument(url).then(function(pdf) {
+    pdfjsLib.getDocument(url).then(function(pdf) {
 
             //Set PDFJS global object (so we can easily access in our page functions
             thePDF = pdf;
